@@ -34,3 +34,38 @@
 路上刷论坛。
 写一个简单的破解程序，并且写博客；
 
+2020年4月15日21:51:22
+真的很难做到啊，每天就是在混日子一样过着。
+压力很大实在没有办法。
+
+2020年4月16日07:27:03
+PS 身份证 营业执照
+
+
+2020年4月16日23:19:38
+
+csdn ZlCtrlQun123
+
+连接逍遥游模拟器：
+cd D:\Program Files\Microvirt\MEmu 
+adb connect 127.0.0.1:5037
+
+git@github.com:18598925736/OnClickListenerHookDemo.git
+
+学习android hook框架对比
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
